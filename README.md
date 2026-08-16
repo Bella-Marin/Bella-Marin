@@ -1,4 +1,4 @@
-# Hola, soy Bella Marin 👋
+# Hola, soy Bella Marin 
 
 ### Analista Programador en formación
 
