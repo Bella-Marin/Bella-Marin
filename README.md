@@ -30,7 +30,7 @@ Actualmente estoy fortaleciendo mis conocimientos mediante proyectos prácticos 
 
 ## Proyectos destacados
 
-### 🔹 API de Verificación de Noticias
+### API de Verificación de Noticias
 
 API REST desarrollada con Python, FastAPI y MongoDB para la gestión y verificación de noticias.
 
